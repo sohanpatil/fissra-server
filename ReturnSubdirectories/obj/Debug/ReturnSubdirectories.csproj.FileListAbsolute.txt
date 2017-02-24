@@ -1,0 +1,6 @@
+C:\Users\sohan\onedrive\documents\visual studio 2015\Projects\ARP_read02\ReturnSubdirectories\bin\Debug\ReturnSubdirectories.exe.config
+C:\Users\sohan\onedrive\documents\visual studio 2015\Projects\ARP_read02\ReturnSubdirectories\bin\Debug\ReturnSubdirectories.exe
+C:\Users\sohan\onedrive\documents\visual studio 2015\Projects\ARP_read02\ReturnSubdirectories\bin\Debug\ReturnSubdirectories.pdb
+C:\Users\sohan\onedrive\documents\visual studio 2015\Projects\ARP_read02\ReturnSubdirectories\obj\Debug\ReturnSubdirectories.exe
+C:\Users\sohan\onedrive\documents\visual studio 2015\Projects\ARP_read02\ReturnSubdirectories\obj\Debug\ReturnSubdirectories.pdb
+C:\Users\sohan\onedrive\documents\visual studio 2015\Projects\ARP_read02\ReturnSubdirectories\obj\Debug\ReturnSubdirectories.csprojResolveAssemblyReference.cache

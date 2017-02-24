@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vault>
+  <file user="02:00:00:00:00:00" uriOutSafe="dummy" uriInSafe="dummy" />
+  <file uriOutSafe="C:\Users\sohan\Desktop\sync_01.txt" uriInSafe="C:\Blink\Source\sync_01" user="02:00:00:00:00:00." />
+  <file uriOutSafe="C:\Users\sohan\Desktop\sync_02.txt" uriInSafe="C:\Blink\Source\sync_02" user="02:00:00:00:00:00." />
+  <file uriOutSafe="C:\Users\sohan\Desktop\ReturnSubdirectories.exe" uriInSafe="C:\Blink\Source\ReturnSubdirectories" user="02:00:00:00:00:00" />
+  <file uriOutSafe="C:\Users\sohan\Desktop\PaymentForm.pdf" uriInSafe="C:\Blink\Source\PaymentForm" user="10:2a:b3:9d:34:1d" />
+  <file uriOutSafe="C:\Users\sohan\Desktop\omp_for_reduction.c" uriInSafe="C:\Blink\Source\omp_for_reduction" user="10:2a:b3:9d:34:1d" />
+  <file uriOutSafe="C:\Users\sohan\Desktop\File 12-03-16, 3 24 16 PM.jpeg" uriInSafe="C:\Blink\Source\File 12-03-16, 3 24 16 PM" user="10:2a:b3:9d:34:1d" />
+</vault>
